@@ -5,7 +5,7 @@
 - 🌍 I live in Lima, PE.
 - 🎓 I hold a degree in Software Engineering.
 - 💼 I currently work as a Frontend Developer at [Devmente](https://www.linkedin.com/company/devmenteio/) and also collaborate on independent projects.
-- 🚀 My main areas of interest include Web Development
+- 🚀 My main area of interest include Web Development
 
 ## My Featured Projects
 
@@ -25,7 +25,7 @@ Here are some of my most notable projects. Take a look!
 You can reach me through:
 
 - ✉️ Email: ramosedward21@gmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/edward-junior-ramos-villarreal-550b27230/
+- 💬 LinkedIn: https://www.linkedin.com/in/edwardramosvillarreal
 
 Thank you for visiting my profile! I hope you find my projects interesting. Feel free to contact me if you have any questions or suggestions. 😊
 
