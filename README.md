@@ -4,7 +4,7 @@
 
 - 🌍 I live in Lima, PE.
 - 🎓 I hold a degree in Software Engineering.
-- 💼 I currently work as a Frontend Developer at [Devmente](https://www.linkedin.com/company/devmenteio/) and also collaborate on independent projects.
+- 💼 I currently work as a Frontend Developer at [Atlantic City](https://pe.linkedin.com/company/casino-atlantic-city) and also collaborate on independent projects.
 - 🚀 My main area of interest include Web Development
 
 ## My Featured Projects
