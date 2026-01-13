@@ -9,20 +9,10 @@
 
 ## My Featured Projects
 
-Here are some of my most notable projects. Take a look!
+Here are some projects I’ve contributed to—take a look!
 
-- [Memora Date](https://memora-date.vercel.app/): Memora Date offers a simple list of reminders, one-time or recurring events, and the ability to import contacts. Email alerts keep you on track.
-- Kisaragi: Kisaragi is a web application that allows small shops to create their own space on the web and offer their products to customers.
-
-## Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardR0507&layout=compact&hide=c,css,handlebars,php,glsl,vim%20script,cuda,html,mdx,java&title_color=50C2F7&text_color=E3E1E1&bg_color=1D2126&hide_border=true&icon_color=4F8CC9" />
-    </td>
-  </tr>
-</table>
+- [Pawboard](https://www.pawboard.dev/): Pawboard: It's like Miro, but meow 🐱
+- [Githunter](https://www.githunter.dev/): Hunt the git.
 
   
 ## Contact
